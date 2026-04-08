@@ -14,7 +14,7 @@ Runs automatically in GitHub Actions to analyze prompts before merge.
 
 ## Example PR Output
 
-![CostGuardAI PR Comment](https://raw.githubusercontent.com/Camj78/Cost-Guard-AI/main/public/pr-comment-example.png)
+![CostGuardAI PR Comment](./assets/pr-comment-example.png)
 
 ## Usage
 
