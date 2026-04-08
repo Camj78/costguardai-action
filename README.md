@@ -1,6 +1,16 @@
 # CostGuardAI GitHub Action
 
-Block unsafe and expensive AI prompts before they reach production.
+Catch expensive and unsafe AI prompts before they reach production.
+
+- Detect token explosions and hidden costs
+- Generate a CostGuardAI Safety Score on every PR
+- Fail CI when prompts fall below your Safety Score threshold
+
+```yaml
+- uses: Camj78/costguardai-action@v1
+```
+
+Runs automatically in GitHub Actions to analyze prompts before merge.
 
 ## Usage
 
