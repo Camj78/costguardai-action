@@ -12,6 +12,10 @@ Catch expensive and unsafe AI prompts before they reach production.
 
 Runs automatically in GitHub Actions to analyze prompts before merge.
 
+## Example PR Output
+
+![CostGuardAI PR Comment](https://raw.githubusercontent.com/Camj78/Cost-Guard-AI/main/public/pr-comment-example.png)
+
 ## Usage
 
 ```yaml
