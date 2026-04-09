@@ -12,9 +12,9 @@ Catch expensive and unsafe AI prompts before they reach production.
 
 Runs automatically in GitHub Actions to analyze prompts before merge.
 
-## Example PR Output
+## Example PR Output — Failed Safety Gate
 
-![CostGuardAI PR Comment](./assets/pr-comment-example.png)
+![CostGuardAI PR blocked — Safety Score below threshold](./assets/pr-comment-example.png)
 
 ## Usage
 
